@@ -1,0 +1,58 @@
+name: D8config
+type: profile
+description: "For a Capgemini Engineering Blog tutorial."
+dependencies:
+  - node
+  - history
+  - block
+  - breakpoint
+  - ckeditor
+  - color
+  - config
+  - contextual
+  - contact
+  - menu_link_content
+  - datetime
+  - block_content
+  - quickedit
+  - editor
+  - help
+  - image
+  - menu_ui
+  - options
+  - path
+  - page_cache
+  - dynamic_page_cache
+  - taxonomy
+  - dblog
+  - search
+  - shortcut
+  - toolbar
+  - field_ui
+  - file
+  - rdf
+  - views
+  - views_ui
+  - tour
+  - automated_cron
+  - responsive_image
+  - syslog
+  - simpletest
+  - big_pipe
+  - migrate
+  - migrate_drupal
+  - migrate_drupal_ui
+  - devel
+  - devel_generate
+  - kint
+  - devel_node_access
+  - webprofiler
+  - config_translation
+  - content_translation
+  - locale
+  - language
+themes:
+  - bartik
+  - seven
+  - integrity
+  - adminimal_theme

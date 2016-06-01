@@ -1,0 +1,20 @@
+uuid: 4cfe9e05-ecd9-4b95-adca-455717ed55ef
+langcode: en
+status: true
+dependencies:
+  theme:
+    - integrity
+_core:
+  default_config_hash: 7rR9chwXvdM2H8OYMAYx9Zj3GGlPMrZp_M3ZA4thYTk
+id: integrity_page_title
+theme: integrity
+region: content
+weight: -7
+provider: null
+plugin: page_title_block
+settings:
+  id: page_title_block
+  label: 'Page title'
+  provider: core
+  label_display: '0'
+visibility: {  }

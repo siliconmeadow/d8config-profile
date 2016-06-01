@@ -1,0 +1,11 @@
+uuid: 2c40bc39-79c0-424e-904e-51a71f246f68
+langcode: en
+status: true
+dependencies: {  }
+_core:
+  default_config_hash: lO5ziR5dVI1PpEeHZsSOfQ-Y7NWihSDKW8-MMf6uoms
+name: Country
+vid: tags
+description: 'Tag the countries and or regions the content refers to.'
+hierarchy: 0
+weight: 0

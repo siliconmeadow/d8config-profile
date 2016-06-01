@@ -1,0 +1,27 @@
+uuid: 3acd2f0e-01cd-479a-a9e7-f6bb96de894f
+langcode: en
+status: true
+dependencies:
+  config:
+    - core.entity_view_mode.node.teaser
+    - field.field.node.technology.body
+    - node.type.technology
+  module:
+    - text
+    - user
+id: node.technology.teaser
+targetEntityType: node
+bundle: technology
+mode: teaser
+content:
+  body:
+    label: hidden
+    type: text_summary_or_trimmed
+    weight: 101
+    settings:
+      trim_length: 600
+    third_party_settings: {  }
+  links:
+    weight: 100
+hidden:
+  langcode: true
