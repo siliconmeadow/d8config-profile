@@ -9,8 +9,9 @@ projects:
     version: '1.1'
   integrity:
     version: '1.6'
-  d8config_profile
+  d8config_profile:
     type: profile
-    download: git
-    url: https://github.com/siliconmeadow/d8config_profile.git
-    working-copy: true
+    download:
+      type: git
+      url: git@github.com:siliconmeadow/d8config_profile.git
+      working-copy: true

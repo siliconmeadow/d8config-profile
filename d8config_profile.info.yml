@@ -1,6 +1,7 @@
 name: D8config
 type: profile
-description: "For a Capgemini Engineering Blog tutorial."
+description: 'For a Capgemini Engineering Blog tutorial.'
+core: 8.x
 dependencies:
   - node
   - history
