@@ -6,6 +6,8 @@ dependencies:
     - node.type.technology
   module:
     - text
+_core:
+  default_config_hash: 7TYehhe7bj1cx-eqrPRdHNwiJIHFuDojnbzKcPBZFGg
 id: node.technology.body
 field_name: body
 entity_type: node

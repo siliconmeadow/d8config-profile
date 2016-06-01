@@ -6,7 +6,7 @@ dependencies:
     - image.style.max_325x325
     - image.style.max_650x650
 _core:
-  default_config_hash: xAduWBNBoi9WKBMCoVIKSueNYqPK84SiiZwQYKPbkaE
+  default_config_hash: 0ZZE7CcQuFwVG_5SF3rO6qQ6wfIOytyGfb-2zsk8pIQ
 id: narrow
 label: Narrow
 image_style_mappings:

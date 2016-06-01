@@ -2,7 +2,7 @@ langcode: en
 status: true
 dependencies: {  }
 _core:
-  default_config_hash: lO5ziR5dVI1PpEeHZsSOfQ-Y7NWihSDKW8-MMf6uoms
+  default_config_hash: gS1TGBSq9jN8jaytVCWz8-xKwd8Nn11u6vvCAZj9rRA
 name: Country
 vid: tags
 description: 'Tag the countries and or regions the content refers to.'

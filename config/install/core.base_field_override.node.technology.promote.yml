@@ -3,6 +3,8 @@ status: true
 dependencies:
   config:
     - node.type.technology
+_core:
+  default_config_hash: XKTN3IM9GwTc4N4T7fXY1ZO9Ci9l7rpCr8CQu6TeIkc
 id: node.technology.promote
 field_name: promote
 entity_type: node

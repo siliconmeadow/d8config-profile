@@ -3,6 +3,8 @@ status: true
 dependencies:
   config:
     - node.type.client
+_core:
+  default_config_hash: bZKPR7bagsi3qKpPY5ShW7TCoMcHuzrAZxKSQ6bI5x0
 id: node.client.promote
 field_name: promote
 entity_type: node

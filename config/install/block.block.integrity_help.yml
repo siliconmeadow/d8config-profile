@@ -6,7 +6,7 @@ dependencies:
   theme:
     - integrity
 _core:
-  default_config_hash: 8I8iACSa0sKO3k3jlvUG1ge52rfcKX7USJAQYnzuBgg
+  default_config_hash: HlYQfTFWsOkCGVDBeJzMiZUiim0gXv9Sucp1Rg6aNGw
 id: integrity_help
 theme: integrity
 region: content

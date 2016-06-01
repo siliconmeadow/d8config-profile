@@ -7,7 +7,7 @@ dependencies:
   module:
     - text
 _core:
-  default_config_hash: zCrrHAjrsQgWjBXBsshAZjND21czBy8sH_L5v_xDKSA
+  default_config_hash: ydTpmP9hhtdTEKl-Js6oFn24g345d0vuJP6vKnOc3cc
 id: block_content.basic.default
 targetEntityType: block_content
 bundle: basic

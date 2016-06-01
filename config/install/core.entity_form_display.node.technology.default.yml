@@ -7,6 +7,8 @@ dependencies:
   module:
     - path
     - text
+_core:
+  default_config_hash: 3bcy60asOr5e4A4a-MbQLAk_Jkd9EhQjYXR6HBgo--c
 id: node.technology.default
 targetEntityType: node
 bundle: technology

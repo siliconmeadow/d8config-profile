@@ -6,6 +6,8 @@ dependencies:
     - node.type.client
   module:
     - text
+_core:
+  default_config_hash: ryKG5Mr_98xYcyCV0AxpsCVnLsTR2bhxtBgycffRAJA
 id: node.client.body
 field_name: body
 entity_type: node

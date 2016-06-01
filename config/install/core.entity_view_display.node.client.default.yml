@@ -7,6 +7,8 @@ dependencies:
   module:
     - text
     - user
+_core:
+  default_config_hash: rM9OBK1AJuBRI_er2nc55eB3A0XcoDd3CArNxLY7MIg
 id: node.client.default
 targetEntityType: node
 bundle: client

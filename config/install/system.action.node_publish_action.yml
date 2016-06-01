@@ -4,7 +4,7 @@ dependencies:
   module:
     - node
 _core:
-  default_config_hash: lsQkbo4njZ-Q_oGKCPGXGWFjWF1I7QpgA6m-t9rcRoA
+  default_config_hash: GI29wpuModFD_Ftup-21UYRe0SS-AOWQAI9QsgWMlik
 id: node_publish_action
 label: 'Publish content'
 type: node

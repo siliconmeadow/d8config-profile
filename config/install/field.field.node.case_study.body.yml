@@ -6,6 +6,8 @@ dependencies:
     - node.type.case_study
   module:
     - text
+_core:
+  default_config_hash: cnhfj0MddoYgcNvVkpe94wBJ9uEUN4MCs22qy1p0hLU
 id: node.case_study.body
 field_name: body
 entity_type: node

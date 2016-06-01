@@ -6,6 +6,8 @@ dependencies:
     - node.type.team_member
   module:
     - text
+_core:
+  default_config_hash: sUcnKEcACAuL26BZ6G7iU-kVh9MDTEc6agdaPdrD3wc
 id: node.team_member.body
 field_name: body
 entity_type: node

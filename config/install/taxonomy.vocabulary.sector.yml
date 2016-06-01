@@ -1,6 +1,8 @@
 langcode: en
 status: true
 dependencies: {  }
+_core:
+  default_config_hash: SxPgrrLFUgV5nblDksTgodf9jf_RlYJ2gkrXA6ecqDA
 name: Sector
 vid: sector
 description: ''

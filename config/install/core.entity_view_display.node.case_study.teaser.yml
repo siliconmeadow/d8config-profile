@@ -8,6 +8,8 @@ dependencies:
   module:
     - text
     - user
+_core:
+  default_config_hash: pWc5ZCpHkITfQFvv8LYTS_s0MWIL6eOK9HM58Msi2QA
 id: node.case_study.teaser
 targetEntityType: node
 bundle: case_study

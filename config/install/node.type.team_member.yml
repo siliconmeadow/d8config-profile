@@ -7,6 +7,8 @@ third_party_settings:
   menu_ui:
     available_menus: {  }
     parent: ''
+_core:
+  default_config_hash: OvGfA-ksDsGB7RaviLqJNvSmC-US_6J8mYRxwg6aNh4
 name: 'Team member'
 type: team_member
 description: ''

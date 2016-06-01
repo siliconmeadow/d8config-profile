@@ -1,5 +1,5 @@
-name: Drupal
-mail: admin@example.com
+name: D8Config
+mail: richard@siliconmeadow.net
 slogan: ''
 page:
   403: ''
@@ -10,4 +10,4 @@ weight_select_max: 100
 langcode: en
 default_langcode: en
 _core:
-  default_config_hash: yXadRE77Va-G6dxhd2kPYapAvbnSvTF6hO4oXiOEynI
+  default_config_hash: cBoWpFHiv2KAOLWNYIbrZ494QdkrbIXRgczleSfWu4w

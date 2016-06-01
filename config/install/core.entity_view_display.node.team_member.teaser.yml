@@ -8,6 +8,8 @@ dependencies:
   module:
     - text
     - user
+_core:
+  default_config_hash: RGz-n9WDAUhMoe_IxPNH8tE8ez6vqaLKdd1LA8SAcXU
 id: node.team_member.teaser
 targetEntityType: node
 bundle: team_member
