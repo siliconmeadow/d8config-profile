@@ -14,5 +14,4 @@ projects:
     download:
       type: git
       url: git@github.com:siliconmeadow/d8config_profile.git
-      branch: no_dot_profile
       working-copy: true
