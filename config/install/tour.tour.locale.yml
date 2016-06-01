@@ -4,7 +4,7 @@ dependencies:
   module:
     - locale
 _core:
-  default_config_hash: _5Z64tIEvf0_RrvwB-k5rri7ZYasjx-jDhPJ5MTwTCQ
+  default_config_hash: pK60CgxPfvwFoQAVXgpAR4kSXo9WUNgtrlgV6wlynyE
 id: locale
 label: Translation
 module: locale

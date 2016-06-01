@@ -4,7 +4,7 @@ dependencies:
   config:
     - node.type.technology
 _core:
-  default_config_hash: XKTN3IM9GwTc4N4T7fXY1ZO9Ci9l7rpCr8CQu6TeIkc
+  default_config_hash: PPdEcAWKqjbh4_DzYPsgGs826Ow5SCq4bbdRJqZD0yg
 id: node.technology.promote
 field_name: promote
 entity_type: node

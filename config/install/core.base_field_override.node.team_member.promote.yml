@@ -4,7 +4,7 @@ dependencies:
   config:
     - node.type.team_member
 _core:
-  default_config_hash: x1jrrdZFPm-MaAmiBTaAXYYg9lV5gJiwG8QbKaCeB-I
+  default_config_hash: SkO0RZKYSL3GlANhHXvxR4oWYeWQavCSa51fb6c_u0A
 id: node.team_member.promote
 field_name: promote
 entity_type: node

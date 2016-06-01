@@ -4,7 +4,7 @@ dependencies:
   config:
     - node.type.client
 _core:
-  default_config_hash: bZKPR7bagsi3qKpPY5ShW7TCoMcHuzrAZxKSQ6bI5x0
+  default_config_hash: 6welzfxHSAUhs4VOkwBeCBBUUrNii0QIpCBCs07d3Q4
 id: node.client.promote
 field_name: promote
 entity_type: node

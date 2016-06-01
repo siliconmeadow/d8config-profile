@@ -8,7 +8,7 @@ dependencies:
   theme:
     - integrity
 _core:
-  default_config_hash: iKCapnxRVsf9NMjigMLFJxJ8y8LB5OOCmt38F7DAW1Q
+  default_config_hash: 27GkPMdvM8n6Ho-ftRPqNQwZN1cf5JO-NX_G-vYLcGE
 id: integrity_tools
 theme: integrity
 region: sidebar_first

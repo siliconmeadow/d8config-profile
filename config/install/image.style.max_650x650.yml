@@ -5,7 +5,7 @@ dependencies:
     module:
       - responsive_image
 _core:
-  default_config_hash: pT9Y2-H5djd5oIXJXG7COwHBekP-yGgNK5_HwO5Xzck
+  default_config_hash: oSdN8mVJvAk5TM1gmCvfzXeA6TiH3V2061qIGRTeos0
 name: max_650x650
 label: 'Max 650x650'
 effects:

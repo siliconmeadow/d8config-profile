@@ -1,4 +1,4 @@
-name: D8config
+name: D8config_profile
 type: profile
 description: 'For a Capgemini Engineering Blog tutorial.'
 core: 8.x
@@ -40,9 +40,6 @@ dependencies:
   - syslog
   - simpletest
   - big_pipe
-  - migrate
-  - migrate_drupal
-  - migrate_drupal_ui
   - devel
   - devel_generate
   - kint

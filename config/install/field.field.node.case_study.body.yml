@@ -7,7 +7,7 @@ dependencies:
   module:
     - text
 _core:
-  default_config_hash: cnhfj0MddoYgcNvVkpe94wBJ9uEUN4MCs22qy1p0hLU
+  default_config_hash: Qh_Uaz5fWO-7oHPS2UDzOrC3KOdPf_GjqiN6xxoK6dE
 id: node.case_study.body
 field_name: body
 entity_type: node

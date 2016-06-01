@@ -4,7 +4,7 @@ dependencies:
   module:
     - language
 _core:
-  default_config_hash: oxNspxyh8fTdQYnglrTfZleE3bXxH554LOEcYDhXe38
+  default_config_hash: mgrlaRt5BBFs5HdZTdn5d9hVEWYclPj7kfXNbntDmeI
 id: language-add
 label: 'Adding languages'
 module: language

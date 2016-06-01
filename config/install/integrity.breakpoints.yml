@@ -3,4 +3,4 @@ tablet: 'all and (min-width: 768px) and (max-width: 991px)'
 desktop: 'all and (min-width: 992px) and (max-width: 1199px)'
 wide: 'all and (min-width: 1200px)'
 _core:
-  default_config_hash: eFQcmMdbaOHILr6AChdJrC4snzYQKXNCmLakP1gobaY
+  default_config_hash: W997S9qrXz4tgfoipKH97u8R0R03wfyYA_GOPV_aKnQ

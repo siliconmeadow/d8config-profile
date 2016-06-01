@@ -8,7 +8,7 @@ dependencies:
     - text
     - user
 _core:
-  default_config_hash: IViMb224B7hQ6WDmjNHJfAzlRYMQq4m0cAzc9_F9ruA
+  default_config_hash: eQ4DSqMJX0CnULh9vDF-FfGUMoHP-p98za_V000DIE0
 id: node.team_member.default
 targetEntityType: node
 bundle: team_member

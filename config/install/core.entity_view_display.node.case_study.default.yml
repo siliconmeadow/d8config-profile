@@ -8,7 +8,7 @@ dependencies:
     - text
     - user
 _core:
-  default_config_hash: 8_0idCT7BqGDwDBoUaM-apG6eozVwrPD-IZai59ek_o
+  default_config_hash: 8q0bu0SNKAYZ74z20G9gdC-bXxCMBp5GCrH6e-skxkw
 id: node.case_study.default
 targetEntityType: node
 bundle: case_study

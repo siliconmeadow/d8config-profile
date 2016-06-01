@@ -6,7 +6,7 @@ dependencies:
   theme:
     - integrity
 _core:
-  default_config_hash: EGPRRz5lzzuBRuPVwE1QGRrXPECeEaXcl6STIw6sv4A
+  default_config_hash: 8mDmBlAG5OuNeULtKCrhE4bDM4FS9UUy1NLZXlQOK2g
 id: integrity_breadcrumbs
 theme: integrity
 region: breadcrumb

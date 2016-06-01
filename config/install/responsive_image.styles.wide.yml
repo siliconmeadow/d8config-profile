@@ -7,7 +7,7 @@ dependencies:
     - image.style.max_325x325
     - image.style.max_650x650
 _core:
-  default_config_hash: ZI08ah8joNklR-rvcPC8nsaUjo7Ig2fPKSifb1lqTbk
+  default_config_hash: HcLhaa-mtDWYJSV0ZRUq4dVvnCkCYI9-jTpvBJFsymw
 id: wide
 label: Wide
 image_style_mappings:

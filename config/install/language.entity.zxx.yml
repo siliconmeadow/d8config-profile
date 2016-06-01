@@ -2,7 +2,7 @@ langcode: en
 status: true
 dependencies: {  }
 _core:
-  default_config_hash: V2R01LabTrZDidCyzh259zb4kt0S3DTMbIVIBCPt6ls
+  default_config_hash: Viv5fcgpVXRmqtkjFDaEsVjfgRtplMaVz-OL4EkTcwM
 id: zxx
 label: 'Not applicable'
 direction: ltr

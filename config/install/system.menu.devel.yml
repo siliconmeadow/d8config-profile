@@ -2,7 +2,7 @@ langcode: en
 status: true
 dependencies: {  }
 _core:
-  default_config_hash: QtoqYgsZkPPe684zMprf0px56EYWAn8wRfHmMfostO0
+  default_config_hash: DIjUY2wNPfzG0HGyyhYrhB2-tjkZccYGgPErDwJIros
 id: devel
 label: Development
 description: 'Links related to Devel module.'

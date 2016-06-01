@@ -8,7 +8,7 @@ third_party_settings:
     available_menus: {  }
     parent: ''
 _core:
-  default_config_hash: nuRZl4EIPLCYIL-nNIiNzX-LM9uLMXi8jnAmZq6GeG4
+  default_config_hash: xcLCMaeo9PB-cxDXvFmfX-4NEyjVaZ9LG5QmDxl1Mao
 name: 'Case study'
 type: case_study
 description: ''

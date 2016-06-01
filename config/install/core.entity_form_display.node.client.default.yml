@@ -8,7 +8,7 @@ dependencies:
     - path
     - text
 _core:
-  default_config_hash: PSpbkfyFl08Rot_nuP6JKdEMjbDeuzLrTLhKxmliNM8
+  default_config_hash: QhNukpr_syK-XOqipGk6wLtiLfxxBc3rtZCX36lsg0I
 id: node.client.default
 targetEntityType: node
 bundle: client

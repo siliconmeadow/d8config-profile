@@ -6,7 +6,7 @@ dependencies:
   theme:
     - adminimal_theme
 _core:
-  default_config_hash: kdE8zNTt_vfLqqSS8Xux8FYAalRfaI6mXaY39msACM0
+  default_config_hash: OOfEP9QjxU9J18CYAXT8wMlFe044WO6RvmY6uLr76kM
 id: adminimal_theme_breadcrumbs
 theme: adminimal_theme
 region: breadcrumb

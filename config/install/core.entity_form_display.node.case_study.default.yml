@@ -8,7 +8,7 @@ dependencies:
     - path
     - text
 _core:
-  default_config_hash: _FbbusLpVLraXOCGHxTgjNFMOlsLt4loT7FQ020tDPg
+  default_config_hash: XjHuHoicBAF-1ky5lcNEyEl9D_Kj3Y70PfkcZcdhk9g
 id: node.case_study.default
 targetEntityType: node
 bundle: case_study

@@ -2,7 +2,7 @@ langcode: en
 status: true
 dependencies: {  }
 _core:
-  default_config_hash: v7EMBrwuRMGd425e6X5nJS0EVbrSCv4-GyYrG8zED-c
+  default_config_hash: greqmwkMoEBkcb-qzSXzjb13gvoFblU-NBMQhZ13HLY
 id: feedback
 label: 'Website feedback'
 recipients:

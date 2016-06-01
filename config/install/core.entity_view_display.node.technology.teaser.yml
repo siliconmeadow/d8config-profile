@@ -9,7 +9,7 @@ dependencies:
     - text
     - user
 _core:
-  default_config_hash: Y6MWpL1qVzNInzO-_6yAVFGqbf4NRnnAixxh_lsK5eQ
+  default_config_hash: qTxl8KnppNahrYaZ5Qc9hiOD8rkcqgq_gXun4N0y9i8
 id: node.technology.teaser
 targetEntityType: node
 bundle: technology

@@ -7,7 +7,7 @@ dependencies:
   module:
     - text
 _core:
-  default_config_hash: 7TYehhe7bj1cx-eqrPRdHNwiJIHFuDojnbzKcPBZFGg
+  default_config_hash: jdUYKCMHoqoD4krO-0ewQHqWLGRSRKd39gq1LoptxnA
 id: node.technology.body
 field_name: body
 entity_type: node

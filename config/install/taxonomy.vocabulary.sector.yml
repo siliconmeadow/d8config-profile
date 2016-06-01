@@ -2,7 +2,7 @@ langcode: en
 status: true
 dependencies: {  }
 _core:
-  default_config_hash: SxPgrrLFUgV5nblDksTgodf9jf_RlYJ2gkrXA6ecqDA
+  default_config_hash: OYe19CJaqiQZC6RbZF8NTGEmumvjP4ecgJKhEOQuHeg
 name: Sector
 vid: sector
 description: ''

@@ -8,7 +8,7 @@ dependencies:
     - path
     - text
 _core:
-  default_config_hash: p1Puq0DUA1UDt6x8CtmNGJopy4_yQXdktZg0Ls1BwC0
+  default_config_hash: CsOX-KWtmauGgERKePHIzwvh9OBzqMx-EzYLw5fpoWo
 id: node.team_member.default
 targetEntityType: node
 bundle: team_member

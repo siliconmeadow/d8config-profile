@@ -8,7 +8,7 @@ third_party_settings:
     available_menus: {  }
     parent: ''
 _core:
-  default_config_hash: OvGfA-ksDsGB7RaviLqJNvSmC-US_6J8mYRxwg6aNh4
+  default_config_hash: TUTddy0Wr7fbNo3SlInlmnU8v4eJLUoJeGdO0rMYG4Y
 name: 'Team member'
 type: team_member
 description: ''

@@ -8,7 +8,7 @@ dependencies:
   theme:
     - integrity
 _core:
-  default_config_hash: eQ-MAXpVVWr19Z6shmkeyYofCIK02oxggGgKMszkrfw
+  default_config_hash: cSJB3hCpSN89texRg64GNSAydCQIiWYSDKHyttkiGXk
 id: integrity_main_menu
 theme: integrity
 region: main_menu

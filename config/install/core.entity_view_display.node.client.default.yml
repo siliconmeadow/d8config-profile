@@ -8,7 +8,7 @@ dependencies:
     - text
     - user
 _core:
-  default_config_hash: rM9OBK1AJuBRI_er2nc55eB3A0XcoDd3CArNxLY7MIg
+  default_config_hash: MbbqwvvWEz_MSWhp0ixooPjZWEfAJBdc9WSTzsi54bs
 id: node.client.default
 targetEntityType: node
 bundle: client
